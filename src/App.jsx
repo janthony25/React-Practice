@@ -1,13 +1,12 @@
 import { useState } from 'react'
-// import Button from './components/Button'
-import ProfilePicture from './ProfilePicture'
+import MyComponent from './components/MyComponent'
 
 function App() {
 
 
   return (
     <>
-     <ProfilePicture />
+     <MyComponent />
     </>
   )
 }
