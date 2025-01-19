@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import ToDoList from './components/ToDoList'
+import Crud from './components/Crud'
 
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-     <ToDoList />
+     <Crud />
     </>
   )
 }
