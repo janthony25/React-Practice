@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Crud from './components/Crud'
+import EffectComponent from './components/EffectComponent'
 
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-     <Crud />
+     <EffectComponent />
     </>
   )
 }
