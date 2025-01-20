@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import EffectComponent from './components/EffectComponent'
+import WIndowComponent from './components/WIndowComponent'
 
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-     <EffectComponent />
+     <WIndowComponent />
     </>
   )
 }
