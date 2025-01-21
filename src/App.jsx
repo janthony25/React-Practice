@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import DigitalClock from './components/DigitalClock'
+import RefComponent from './components/RefComponent'
 
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-     <DigitalClock />
+     <RefComponent />
     </>
   )
 }
