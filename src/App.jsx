@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import WIndowComponent from './components/WIndowComponent'
+import DigitalClock from './components/DigitalClock'
 
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-     <WIndowComponent />
+     <DigitalClock />
     </>
   )
 }
